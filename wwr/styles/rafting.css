@@ -29,8 +29,8 @@ header, main, footer {
 }
 
 h1, h2 {
-    font-family: var(--headong-font);
-    color: var(--primary-color);
+    font-family: var(--heading-font);
+    color: var(--secondary-color);
 }
 
 nav, p, section, article {
