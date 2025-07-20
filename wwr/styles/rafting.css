@@ -30,7 +30,7 @@ header, main, footer {
 
 h1, h2 {
     font-family: var(--headong-font);
-    color: car(--primary-color);
+    color: var(--primary-color);
 }
 
 nav, p, section, article {
